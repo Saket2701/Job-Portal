@@ -1,11 +1,10 @@
 # Job Portal Project
-
+![888888](https://github.com/Saket2701/Job-Portal/assets/101319476/a1ec3138-ec59-4a31-a3e9-1e63a60dfccb)
 ## Introduction
 
 Welcome to the Job Portal project! This web application is built using PHP, Laravel, MySQL, and Bootstrap to create a modern and efficient job portal. This document provides an overview of the project structure and includes relevant code snippets.
 
 ## Project Structure
-
 The project is organized into several main components:
 
 1. **Frontend:**
