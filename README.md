@@ -48,7 +48,11 @@ The project is organized into several main components:
    ```bash
    composer install
 
-4. Create a copy of the .env.example file and rename it to .env. Update the database configuration.
+4. Install frontend dependencies and compile assets::
+   ```bash
+    npm install && npm run dev
+
+5. Create a copy of the .env.example file and rename it to .env. Update the database configuration.
    #### Create a copy:
    1. Locate the `.env.example` file in your Laravel project.
    2. Make a copy of this file and name the duplicate `.env`.
@@ -57,11 +61,7 @@ The project is organized into several main components:
    1. Open the newly created `.env` file in a text editor.
    2. Look for the section related to database configuration (usually starts with `DB_`).
    3. Update the values for `DB_CONNECTION`, `DB_HOST`, `DB_PORT`, `DB_DATABASE`, `DB_USERNAME`, and `DB_PASSWORD` to match your local database setup.
-
-5. Generate the application key:
-   ```bash
-   php artisan key:generate
-
+   4. 
 6. Run migrations to create the database tables:
    ```bash
    php artisan migrate
@@ -97,10 +97,3 @@ The project is organized into several main components:
 # Conclusion
 
 Congratulations! You've successfully set up and explored the Job Portal project. Feel free to explore the codebase further to understand the implementation details.
-
-
-
-
-
-
-
