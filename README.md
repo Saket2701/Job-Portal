@@ -24,6 +24,26 @@ The project is organized into several main components:
 5. **Admin Panel:**
    - Admin panel implemented to manage categories, jobs, and users with custom views and functionalities.
 
+## XAMPP Configuration
+
+This project is designed to work with XAMPP, a free and open-source cross-platform web server solution stack package. Before running the application, ensure that you have XAMPP installed and configured on your machine.
+
+### XAMPP Installation
+
+1. Download XAMPP from the official website: [XAMPP Download](https://www.apachefriends.org/index.html).
+2. Install XAMPP following the installation instructions provided on the website.
+
+### Starting Apache and MySQL Modules
+
+Before running the Job Portal project, make sure that the Apache and MySQL modules are running in the XAMPP Control Panel:
+
+1. Open the XAMPP Control Panel.
+2. Start the Apache module.
+3. Start the MySQL module.
+
+### Project Setup
+
+Now that XAMPP is installed and the necessary modules are running, proceed with the installation steps mentioned in the next sections of this README to set up and run the Job Portal project.
 ## Quick Start Guide
 
 ### Prerequisites
