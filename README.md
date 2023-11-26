@@ -62,7 +62,7 @@ Now that XAMPP is installed and the necessary modules are running, proceed with 
 
 2. Navigate to the project directory:
    ```bash
-   cd job-portal
+   cd /c/Xampp/htdocs/jobboard
 
 3. Install dependencies:
    ```bash
