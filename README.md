@@ -119,4 +119,4 @@ Now that XAMPP is installed and the necessary modules are running, proceed with 
 - Users can save jobs for later and view their applications.
 
 # Conclusion
-Congratulations! You've successfully set up and explored the Job Portal project. Feel free to explore the codebase further to understand the implementation details.
+Congratulations! You've successfully set up and explored the Job Portal project. Feel free to explore the codebase further to understand the implementation details!
