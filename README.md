@@ -1,5 +1,7 @@
-# Job Portal Project
-![888888](https://github.com/Saket2701/Job-Portal/assets/101319476/a1ec3138-ec59-4a31-a3e9-1e63a60dfccb)
+<p align="center">
+    <img src="https://github.com/Saket2701/Job-Portal/assets/101319476/aeddb427-ab20-412c-b8b5-fb6e1fca9686" alt="picjob">
+</p>
+
 ## Introduction
 
 Welcome to the Job Portal project! This web application is built using PHP, Laravel, MySQL, and Bootstrap to create a modern and efficient job portal. This document provides an overview of the project structure and includes relevant code snippets.
@@ -120,3 +122,8 @@ Now that XAMPP is installed and the necessary modules are running, proceed with 
 
 # Conclusion
 Congratulations! You've successfully set up and explored the Job Portal project. Feel free to explore the codebase further to understand the implementation details.
+<p align="center">
+    <a href="https://laravel.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+    </a>
+</p>
