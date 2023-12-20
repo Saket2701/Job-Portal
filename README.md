@@ -1,3 +1,4 @@
+# Job Portal Project
 <p align="center">
     <img src="https://github.com/Saket2701/Job-Portal/assets/101319476/aeddb427-ab20-412c-b8b5-fb6e1fca9686" alt="picjob">
 </p>
@@ -119,6 +120,19 @@ Now that XAMPP is installed and the necessary modules are running, proceed with 
 
 ### 4. Saved Jobs and Applications:
 - Users can save jobs for later and view their applications.
+
+## Demo of the Web Application
+The Basic Layout will look like this-
+
+https://github.com/Saket2701/Job-Portal/assets/101319476/797cf253-d103-412d-b461-52d8b5c97bcd
+
+Demo for Jobs Section-
+
+https://github.com/Saket2701/Job-Portal/assets/101319476/9a97dcdd-8832-4a3d-aa38-9dc77bc56ba5
+
+Demo for Admin Panel-
+
+https://github.com/Saket2701/Job-Portal/assets/101319476/b43a4b73-f9b3-4911-9654-a22c5ca207ef
 
 # Conclusion
 Congratulations! You've successfully set up and explored the Job Portal project. Feel free to explore the codebase further to understand the implementation details.
